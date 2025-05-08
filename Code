@@ -1,0 +1,7 @@
+cd ~/workspace
+git init
+git add mycipher.py
+git commit -m "Initial commit: Caesar Cipher"
+git branch -M main
+git remote add origin https://github.com/charleskarongo1/caesar-cipher.git
+git push -u origin main
